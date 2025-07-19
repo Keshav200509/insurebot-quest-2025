@@ -1,0 +1,9 @@
+{
+  "customer123": {
+    "name": "Ravi",
+    "due_date": "25th September 2024",
+    "policy_number": "POL123456",
+    "premium_amount": "₹1,00,000",
+    "payment_mode": "Credit Card"
+  }
+}

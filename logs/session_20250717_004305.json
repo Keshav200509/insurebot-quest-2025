@@ -1,0 +1,20 @@
+[
+  {
+    "bot": "Hello, this is Veena from ValuEnable. May I speak with [name]?"
+  },
+  {
+    "user": "yes",
+    "bot": "Your premium of \u20b9[premium_amount] is due on [due_date]. Would you like to pay now?"
+  },
+  {
+    "user": "no",
+    "bot": "Could you please share your reason for not paying the premium yet?"
+  },
+  {
+    "user": "financial problems",
+    "bot": "I\u2019m sorry, I\u2019m currently unable to access Gemini Pro. Please try again later or contact support at 1800\u2011123\u2011456."
+  },
+  {
+    "bot": "Goodbye!"
+  }
+]
